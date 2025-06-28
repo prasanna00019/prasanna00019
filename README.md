@@ -80,7 +80,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasanna00019&theme=tokyonight" />
 </p>
-
+[![prasanna00019 profile views](https://u8views.com/api/v1/github/profiles/159623027/views/day-week-month-total-count.svg)](https://u8views.com/github/prasanna00019)
 ---
 
 ### 🌱 Currently Learning
