@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Prasanna Halakarnimath</h1>
-<h3 align="center">Full Stack Developer | Builder of Chatbots, Platforms & Cool Stuff</h3>
+<h3 align="center">Full Stack Developer | Builder of AI Agents, Platforms & Cool Stuff | Backend Development</h3>
 
 <p align="center">
   <a href="mailto:prasanna.000019@gmail.com"><img src="https://img.shields.io/badge/Email-prasanna.000019@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -19,7 +19,12 @@
 
 - 👻 **[OneSeen](https://github.com/udaykumar-dhokia/OneSeen)**  
   Anonymous confessions, view-once secret messages, 24h expiry — fully private
-
+  -🔧🧠 **[Fine-Tuning-LLMs](https://github.com/prasanna00019/Fine-Tuning-LLMs)**
+   Fine-tuning GPT-2 and other models on tasks like emotion, news, and subject classification and many more🔧🧠
+-    **[AI-Agents](https://github.com/prasanna00019/AI-Agents-Hub)**
+  🤖🧪 All my AI Agent projects in one place — smart, interactive, and tool-powered! 🚀🧠 
+- 🧘‍♀ **[MoodMaps](https://github.com/prasanna00019/HackGenesis-25)**
+  MoodMaps 🧠❤️‍🩹: Your companion for well-being, crafted during HackGenesis'25 IITRAM🧘‍♀️✨ 
 ---
 
 ### 🛠️ Tech Stack
@@ -42,6 +47,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/AdonisJS-purple?style=flat&logo=adonisjs&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 **Databases & Tools**  
@@ -53,6 +59,7 @@
 
 **AI/ML**  
 <p>
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-3C3C3C?style=flat&logo=OpenAI&logoColor=white" />
 </p>
@@ -77,7 +84,7 @@
 ---
 
 ### 🌱 Currently Learning
-> Building my own LLMs and diving into advanced cryptography & diffusion models 🚀
+> Building my own LLMs,Exploring AI Agents, Fine-Tuning, RAG and diving into advanced cryptography & diffusion models 🚀
 
 ---
 
