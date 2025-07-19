@@ -1,4 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Prasanna Halakarnimath</h1>
+
+
+<h1 align="center">Hey there 👋, I'm Prasanna H</h1>
 <h3 align="center">Full Stack Developer | Builder of AI Agents, Platforms & Cool Stuff | Backend Development</h3>
 
 <p align="center">
@@ -11,21 +13,25 @@
 
 ### 🚀 Projects I’ve Built
 
+-  **[Crypto-Toolkit-Scratch](https://github.com/prasanna00019/Crypto-Toolkit-Scratch)**
+A collection of cryptographic algorithms implemented from scratch in Python
+-  **[RAG_Playground](https://github.com/prasanna00019/RAG-Playground)**
+  A comprehensive collection of RAG (Retrieval Augmented Generation) implementations 
 - 🧠 **[LeetCode FullStack Clone](https://github.com/prasanna00019/CODING-ENGINE-TRIAL)**  
   MERN clone with real-time code execution, submissions, and test case support
 
 - 💬 **[Chat App Full Stack](https://github.com/prasanna00019/CHAT-APP-FULL-STACK)**  
   WhatsApp-like features: 1:1, group chat, stories, delete-for-everyone, reactions, scheduled messages
 
-- 👻 **[OneSeen](https://github.com/udaykumar-dhokia/OneSeen)**  
+- 👻 **[OneSeen(Hackathon Project)](https://github.com/udaykumar-dhokia/OneSeen)**  
   Anonymous confessions, view-once secret messages, 24h expiry — fully private
  
- -🔧🧠 **[Fine-Tuning-LLMs](https://github.com/prasanna00019/Fine-Tuning-LLMs)**
+ - 🔧 **[Fine-Tuning-LLMs](https://github.com/prasanna00019/Fine-Tuning-LLMs)**
    Fine-tuning GPT-2 and other models on tasks like emotion, news, and subject classification and many more🔧🧠
 
- **[AI-Agents](https://github.com/prasanna00019/AI-Agents-Hub)**
+ - 🧠 **[AI-Agents](https://github.com/prasanna00019/AI-Agents-Hub)**
   🤖🧪 All my AI Agent projects in one place — smart, interactive, and tool-powered! 🚀🧠 
-- 🧘‍♀ **[MoodMaps](https://github.com/prasanna00019/HackGenesis-25)**
+- 🧘‍♀  **[MoodMaps(Hackathon Project)](https://github.com/prasanna00019/HackGenesis-25)**
   MoodMaps 🧠❤️‍🩹: Your companion for well-being, crafted during HackGenesis'25 IITRAM🧘‍♀️✨ 
 ---
 
@@ -61,17 +67,19 @@
 
 **AI/ML**  
 <p>
-  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green"/>
+  <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B32C3?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-3C3C3C?style=flat&logo=OpenAI&logoColor=white" />
 </p>
+
 
 ---
 
 ### 🏆 Achievements
 
 - 🥇 **Winner** – MSU FootPrint Web Dev Hackathon 2025  
-- 🙏 **Volunteer** – Isha Foundation, Coimbatore (July 2023)
 
 ---
 
@@ -88,12 +96,12 @@
 ---
 
 ### 🌱 Currently Learning
-> Building my own LLMs,Exploring AI Agents, Fine-Tuning, RAG and diving into advanced cryptography & diffusion models 🚀
+> Building LLMs,Exploring AI Agents, Fine-Tuning, RAG,Backend Development and diving into advanced cryptography & diffusion models 🚀
 
 ---
 
 ### 🔍 Explore My Work  
 📌 Featured project: [Fit-Nest](http://www.fit-nest.in)  
-A full gym platform with admin dashboard, product listing, trainer mgmt & more!
+A full gym platform with admin dashboard, product listing, trainer management & more!
 
 ---
